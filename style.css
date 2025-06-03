@@ -4,9 +4,10 @@ body {
 }
 
 #description-container {
-  background-color: #023047;
+  background-color: #344055;
   border: 5px, #003049;
   border-radius: 10px;
   width: 50px;
   height: 100px;
+  color: #e9edc9;
 }
