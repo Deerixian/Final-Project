@@ -1,15 +1,1 @@
 
-body {
-  background-color: #219ebc;
-  background-image: url('https://steamcommunity.com/economy/profilebackground/items/1210230/bc5c5fbcdd888902bae34ca5266020ed7978dd42.jpg');
-}
-
-#description-container {
-  background-color: #344055;
-  border: 50px, #003049;
-  border-radius: 10px;
-  width: 500px;
-  height: 500px;
-  color: #e9edc9;
-  align-items: center;
-}
